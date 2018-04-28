@@ -4,7 +4,7 @@
 
 ### 0:15-1:00 Guided Workshop with Repl.it
 
-* Open a browser to https://repl.it/languages/python
+* Open a browser to https://repl.it/languages/python3
 
 ### 1:00-2:30 Breakouts
 
