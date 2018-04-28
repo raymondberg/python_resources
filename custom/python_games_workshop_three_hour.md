@@ -25,6 +25,7 @@ Choose one and form groups doing the same thing!
 #### Build your own Game with PyGame
 * Making Games with Python & Pygame - https://inventwithpython.com/pygame/
 * Invent your own Computer Games Pygame sections in Chapter 17+ - https://inventwithpython.com/invent4thed/chapter17.html
+* Example PyGame Games - https://github.com/raymondberg/pygames
 
 ## Other Resources
 * Codewars - https://www.codewars.com
